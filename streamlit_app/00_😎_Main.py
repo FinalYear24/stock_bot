@@ -22,7 +22,7 @@ Ready to dive into the exciting world of stocks? Strap on your seatbelt, we're a
 """
 )
 
-st.image("C:\Dharsh\projects\Stockastic-main\man stock.jpg", caption="Stock Market Meme", width=400)
+st.image("man stock.jpg", caption="Stock Market Meme", width=400)
 # Add step-wise introduction to stocks
 st.markdown(
     """## 🚀 **Step 1: Find Your Spirit Stock**
@@ -55,7 +55,7 @@ No matter what happens, always remember to laugh in the face of losses. After al
 )
 
 # Add images of stocks and a meme for the BBOT app
-st.image("C:\Dharsh\projects\Stockastic-main\stock.jpg", caption="Stock Market", width=400)
+st.image("stock.jpg", caption="Stock Market", width=400)
 
 
 # Display disclaimer for the stock introduction
@@ -77,6 +77,6 @@ st.markdown(
 )
 
 # Add a fun image to lighten the mood for the stock introduction
-st.image("C:\Dharsh\projects\Stockastic-main\joke.jpg", caption="Stock Market Adventure", width=600)
+st.image("joke.jpg", caption="Stock Market Adventure", width=600)
 
 
